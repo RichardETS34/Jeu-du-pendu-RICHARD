@@ -1,10 +1,10 @@
-# 🎮 Jeu du Pendu en Python
+#  Jeu du Pendu en Python
 
 Ce projet est une implémentation du célèbre **jeu du pendu** en ligne de commande, réalisée en Python. Le joueur doit deviner un mot choisi aléatoirement parmi une liste, avec un nombre limité d’essais. Ce projet inclut la gestion des accents, la possibilité d’utiliser un fichier de mots personnalisé, et un système d’indice bonus.
 
 ---
 
-## 🚀 Fonctionnalités
+##  Fonctionnalités
 
 - ✅ Sélection aléatoire d’un mot à deviner depuis un fichier `.txt`
 - ✅ Suppression automatique des accents pour faciliter la saisie
@@ -17,4 +17,4 @@ Ce projet est une implémentation du célèbre **jeu du pendu** en ligne de comm
 
 ---
 
-## 🧱 Structure du projet
+##  Structure du projet
