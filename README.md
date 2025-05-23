@@ -13,7 +13,7 @@ Ce projet est une implémentation du célèbre **jeu du pendu** en ligne de comm
 - ✅ Système d’indice : une lettre non présente dans le mot est proposée si une seule chance reste
 - ✅ Gestion d’un fichier personnalisé fourni par l’utilisateur
 - ✅ Redémarrage possible après chaque partie
-- ✅ Compatible avec Python 3.x
+
 
 ---
 
